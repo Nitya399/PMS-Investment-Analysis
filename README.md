@@ -8,15 +8,16 @@ A business case study analyzing challenges and proposing solutions for scaling t
 A PowerPoint presentation summarizing key insights for stakeholders.
 
 📂 Project Structure
-PMS-Investment-Analysis/
-│── PowerBI-Dashboard/
-│   ├── PMS_Dashboard.pbix
-│── Presentations/
-│   ├── PMS_Presentation.pptx
-│── Business-Case-Study/
-│   ├── PMS_Case_Study.docx
-│   ├── PMS_Case_Study.pdf
-│── README.md
+- **Data**
+  - `investment_data.xlsx`
+- **Power BI Dashboard**
+  - `PMS_Dashboard.pbix`
+- **Presentation**
+  - `PMS_Insights_Presentation.pptx`
+- **Business Case Study**
+  - `PMS_Business_Case_Study.docx`
+- **Documentation**
+  - `README.md`
 
 📌 Contents & Features
 🔹 Power BI Dashboard (PMS_Dashboard.pbix)
